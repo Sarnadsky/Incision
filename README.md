@@ -5,6 +5,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/Sarnadsky/incision)
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)](LICENSE.md)
 [![Languages](https://img.shields.io/badge/languages-EN%20%7C%20RU-orange)](https://github.com/Sarnadsky/incision)
+[![DOI](https://zenodo.org/badge/1215095319.svg)](https://doi.org/10.5281/zenodo.19652147)
 
 **[English](#english) | [Русский](#русский)**
 
